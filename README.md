@@ -1,4 +1,4 @@
-# Project-2-DataScience-job-market
+# FinalProject-DataScience-job-market
 ![Data Science](Images/data-science-ultimate-guide-infographic.png)
 In this project, we built an user-driven interactive dashboard to explore the [Data Scientist Job Market in the US](https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us).
 We will also use the [Indeed Dataset](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer#indeed_job_dataset.csv), as well as the [Data-Professional-Salary-Survey](https://data.world/finance/data-professional-salary-survey)
